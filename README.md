@@ -7,5 +7,5 @@ Utilizarei somente um repositório para a publicação de todo o conteúdo dos c
 
 
 ## Cursos finalizados
- - Git/github
+ - Introdução ao Git e ao GitHub
  - Criando seu primeiro repositório no GitHub para compartilhar seu progresso 
