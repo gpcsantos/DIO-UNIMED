@@ -1,0 +1,1 @@
+alert("olá mundo!!! \n\nmeu primeiro script ")
