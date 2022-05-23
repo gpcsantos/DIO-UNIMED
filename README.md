@@ -8,4 +8,6 @@ Utilizarei somente um repositório para a publicação de todo o conteúdo dos c
 
 ## Cursos finalizados
  - Introdução ao Git e ao GitHub
- - Criando seu primeiro repositório no GitHub para compartilhar seu progresso 
+ - Criando seu primeiro repositório no GitHub para compartilhar seu progresso
+ - Introdução ao JavaScript
+ - Sintaxe e Operadores
